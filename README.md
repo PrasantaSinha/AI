@@ -12,3 +12,7 @@ Conv2D
 MaxPooling2D
  layers in TensorFlow. You’ll learn how to implement them in code in the next video.
 
+If you want to see more detail on how they work, check out the playlist at 
+https://bit.ly/2UGa7uH
+
+
